@@ -4,6 +4,7 @@ ESA Auto ML è una piattaforma AutoML sviluppata per automatizzare il processo d
 Il progetto nasce con l'obiettivo di semplificare le attività di Data Science e consentire anche a utenti non esperti di sperimentare e valutare modelli di Intelligenza Artificiale attraverso un flusso di lavoro guidato e automatizzato.
 
 Principali funzionalità
+
 ✅ Importazione dataset CSV
 
 ✅ Preprocessing automatico dei dati
